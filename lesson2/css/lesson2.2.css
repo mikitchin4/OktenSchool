@@ -1,0 +1,17 @@
+.dad{
+    height: 300px;
+    background: lightpink;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sun{
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+.sun:hover{
+    background: gray;
+    border-radius: 50%;
+    transition: 1s;
+}

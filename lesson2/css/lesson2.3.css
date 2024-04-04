@@ -1,0 +1,34 @@
+body{
+    margin: 20px;
+}
+.dad{
+    width: 100%;
+    height: 200px;
+    background: cornflowerblue;
+}
+.dad1{
+    width: 100%;
+    height: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.sun{
+    width: 32%;
+    height: 250px;
+    background: darkblue;
+}
+.dad2{
+    width: 100%;
+    height: 500px;
+    background: cornflowerblue;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: white;
+}
