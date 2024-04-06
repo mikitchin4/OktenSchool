@@ -1,0 +1,22 @@
+header{
+    height: 15vh;
+    background: #FFF;
+}
+main{
+    height: 65vh;
+    display: flex;
+}
+.dad{
+    height: 65vh;
+    width: 34%;
+    background: #78786F;
+}
+.dad1 {
+    height: 65vh;
+    width: 33%;
+    background: #61615C;
+}
+footer{
+    height: 20vh;
+    background: #D9D9D9;
+}
