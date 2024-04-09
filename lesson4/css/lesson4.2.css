@@ -83,4 +83,5 @@ footer{
 footer>a{
     font-weight: 500;
     color: cornflowerblue;
+    text-decoration: none;
 }
