@@ -1,0 +1,21 @@
+@media screen and (min-width: 600px) and (max-width: 1100px){
+    body{
+        font-size: 20px;
+    }
+    article{
+        width: 100%;
+        flex-wrap: nowrap;
+    }
+    .box1{
+        width: 24.5%;
+        height: 51vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .box1>p{
+        transform: rotate(-90deg);
+        width: 100px;
+        height: 20px;
+    }
+}

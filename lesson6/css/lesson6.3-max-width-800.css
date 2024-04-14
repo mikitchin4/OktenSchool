@@ -1,0 +1,28 @@
+@media screen and (max-width: 800px){
+    body{
+        font-size: 20px;
+    }
+    header{
+        height: 16vh;
+    }
+    main{
+        display: block;
+    }
+    .father{
+        width: 100%;
+    }
+    .sun{
+        height: 50vh;
+    }
+    .sun1{
+        height: 12vh;
+    }
+    .box{
+        height: 12vh;
+    }
+    .mum{
+        height: 16vh;
+        width: 100%;
+    }
+
+}

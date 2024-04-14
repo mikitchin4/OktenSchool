@@ -1,0 +1,63 @@
+body{
+    height: 97vh;
+    font-size: 40px;
+    color: #4F504A;
+}
+header{
+    height: 32vh;
+    background: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 1em;
+}
+main{
+    height: 64vh;
+    display: flex;
+    margin-top: 8px;
+}
+.father{
+    width: 75%;
+    height: 64vh;
+    margin-right: 8px;
+}
+.mum{
+    width: 25%;
+    height: 64vh;
+    background: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 1em;
+}
+.sun{
+    width: 100%;
+    height: 32vh;
+    background: gray;
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 1em;
+
+}
+.sun1{
+    width: 100%;
+    height: 31vh;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 32.5%;
+    height: 31vh;
+    background: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 1em;
+
+}

@@ -1,0 +1,41 @@
+body{
+    height: 97vh;
+    font-size: 40px;
+    color: #4F504A;
+}
+header{
+    height: 33vh;
+    background: gray;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+}
+main{
+    height: 64vh;
+    display: flex;
+}
+.box{
+    width: 80%;
+    height: 64vh;
+    background: gray;
+    border-radius: 20px;
+    margin-top: 8px;
+    margin-right: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+}
+.box1{
+    width: 20%;
+    height: 64vh;
+    background: gray;
+    border-radius: 20px;
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+}
